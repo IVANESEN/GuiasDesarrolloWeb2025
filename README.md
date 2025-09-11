@@ -96,9 +96,9 @@
    
         <div class="links">
    >
-          <a class="primary" href="https://github.com/IVANESEN/GuiasDesarrolloWeb2025" target="_blank" rel="noopener">Ver guía</a>
+          <a class="primary" href="https://github.com/IVANESEN/GuiasDesarrolloWeb2025/blob/main/20245200_GUIA%202.zip" target="_blank" rel="noopener">Ver guía</a>
      
-          <a href="https://github.com/IVANESEN/GuiasDesarrolloWeb2025" target="_blank" rel="noopener">Repositorio</a>
+          <a href="https://github.com/IVANESEN/GuiasDesarrolloWeb2025/blob/main/20245200_GUIA%202.zip" target="_blank" rel="noopener">Repositorio</a>
         </div>
       </article>
     
