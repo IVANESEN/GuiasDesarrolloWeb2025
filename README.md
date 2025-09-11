@@ -91,6 +91,16 @@
         </div>
       </article>
 
+<article class="card" data-cat="HTML">
+        <h3>Guía 02 — Selectores CSS avanzados y modelo de caja</h3>
+   
+        <div class="links">
+   >
+          <a class="primary" href="https://github.com/IVANESEN/GuiasDesarrolloWeb2025" target="_blank" rel="noopener">Ver guía</a>
+     
+          <a href="https://github.com/IVANESEN/GuiasDesarrolloWeb2025" target="_blank" rel="noopener">Repositorio</a>
+        </div>
+      </article>
     
 
     </section>
